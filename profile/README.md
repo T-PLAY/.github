@@ -5,3 +5,5 @@ T-PLAY is a Tracking Platform for multi modal Augmented realitY, developed at th
 Designed to support academic and industrial research, it offers an integrated framework to combine and fuse sensors data in Augmented and Virtual Reality applications. It supports various sensors such as 6DoF trackers (e.g., Polhemus, OptiTrack), RGB and lidar cameras (e.g. Intel RealSense cameras), Ultrasound platform (ULA-OP series) and display devices (e.g. HoloLens v2). It can be extended with procedural data generators, simulated sensors and interactive processing pipelines. It also support multiple users interacting on multiple platforms.
 
 Website: https://www.irit.fr/tplay/
+
+![](https://github.com/T-PLAY/.github/assets/6310221/1a39d6d2-b3c2-45b7-8b6b-897c7dd163ba)
